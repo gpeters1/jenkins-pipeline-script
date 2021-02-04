@@ -1,6 +1,6 @@
 // seedjob.groovy
 // create an array with our two pipelines
-pipelines = ["first-pipeline", "another-pipeline"]
+pipelines = ["greg-test"]
 // iterate through the array and call the create_pipeline method
 pipelines.each { pipeline ->
     println "Creating pipeline ${pipeline}"
